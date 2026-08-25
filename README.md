@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1045-customers-who-bought-all-products](https://github.com/rokhitbeast/leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/rokhitbeast/leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rokhitbeast/leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/rokhitbeast/leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
