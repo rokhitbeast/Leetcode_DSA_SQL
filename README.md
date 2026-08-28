@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0610-triangle-judgement](https://github.com/rokhitbeast/leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/rokhitbeast/leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/rokhitbeast/leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rokhitbeast/leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
