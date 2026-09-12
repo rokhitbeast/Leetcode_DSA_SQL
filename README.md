@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/rokhitbeast/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rokhitbeast/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rokhitbeast/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rokhitbeast/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/rokhitbeast/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rokhitbeast/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rokhitbeast/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -20,11 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/rokhitbeast/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rokhitbeast/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rokhitbeast/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/rokhitbeast/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/rokhitbeast/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rokhitbeast/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rokhitbeast/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rokhitbeast/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 <!---LeetCode Topics End-->
