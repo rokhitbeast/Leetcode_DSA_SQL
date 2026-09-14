@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/rokhitbeast/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rokhitbeast/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/rokhitbeast/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/rokhitbeast/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -134,11 +135,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/rokhitbeast/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/rokhitbeast/leetcode/tree/main/0169-majority-element/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rokhitbeast/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/rokhitbeast/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/rokhitbeast/leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -152,4 +155,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/rokhitbeast/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/rokhitbeast/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/rokhitbeast/leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
