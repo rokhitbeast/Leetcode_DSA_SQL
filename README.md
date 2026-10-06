@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/rokhitbeast/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/rokhitbeast/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/rokhitbeast/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/rokhitbeast/leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/rokhitbeast/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/rokhitbeast/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rokhitbeast/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/rokhitbeast/leetcode/tree/main/0283-move-zeroes/) | Easy |
