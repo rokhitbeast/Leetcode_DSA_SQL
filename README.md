@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/rokhitbeast/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/rokhitbeast/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0835-image-overlap](https://github.com/rokhitbeast/leetcode/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/rokhitbeast/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/rokhitbeast/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rokhitbeast/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rokhitbeast/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -176,11 +177,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/rokhitbeast/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/rokhitbeast/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rokhitbeast/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/rokhitbeast/leetcode/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/rokhitbeast/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rokhitbeast/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/rokhitbeast/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rokhitbeast/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -246,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rokhitbeast/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/rokhitbeast/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
