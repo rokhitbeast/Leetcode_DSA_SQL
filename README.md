@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rokhitbeast/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rokhitbeast/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rokhitbeast/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rokhitbeast/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3525-find-x-value-of-array-ii](https://github.com/rokhitbeast/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rokhitbeast/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rokhitbeast/leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rokhitbeast/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rokhitbeast/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
