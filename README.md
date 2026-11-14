@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rokhitbeast/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rokhitbeast/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rokhitbeast/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/rokhitbeast/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rokhitbeast/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/rokhitbeast/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rokhitbeast/leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/rokhitbeast/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rokhitbeast/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rokhitbeast/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/rokhitbeast/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/rokhitbeast/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rokhitbeast/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/rokhitbeast/leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rokhitbeast/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/rokhitbeast/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rokhitbeast/leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
