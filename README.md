@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rokhitbeast/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rokhitbeast/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/rokhitbeast/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rokhitbeast/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/rokhitbeast/leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rokhitbeast/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rokhitbeast/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/rokhitbeast/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rokhitbeast/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rokhitbeast/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rokhitbeast/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rokhitbeast/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rokhitbeast/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rokhitbeast/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rokhitbeast/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/rokhitbeast/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rokhitbeast/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rokhitbeast/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/rokhitbeast/leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rokhitbeast/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rokhitbeast/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
